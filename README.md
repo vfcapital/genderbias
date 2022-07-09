@@ -10,4 +10,4 @@ Run All cells
 
 ## Output:
 - Scores of how likely it is that each individual of group 1 and group 2 are voting for one of the candidates.
-- Random selection with bias 
+- Random candidate selection with bias  
